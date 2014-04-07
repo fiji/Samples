@@ -16,6 +16,13 @@
 	<name>plugins/Samples_.jar</name>
 	<description></description>
 
+	<scm>
+		<connection>scm:git:git://github.com/fiji/Samples</connection>
+		<developerConnection>scm:git:git@github.com:fiji/Samples</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/fiji/Samples</url>
+	</scm>
+
 	<repositories>
 		<!-- NB: for project parent, in case of partial checkout -->
 		<repository>
