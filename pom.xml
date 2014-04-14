@@ -16,6 +16,11 @@
 	<name>plugins/Samples_.jar</name>
 	<description></description>
 
+	<ciManagement>
+		<system>Jenkins</system>
+		<url>http://jenkins.imagej.net/job/Samples/</url>
+	</ciManagement>
+
 	<scm>
 		<connection>scm:git:git://github.com/fiji/Samples</connection>
 		<developerConnection>scm:git:git@github.com:fiji/Samples</developerConnection>
